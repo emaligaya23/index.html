@@ -20,7 +20,7 @@
 </head>head>
 <body>
     <h1>Hello Beautiful Girl, let me ask you a question.</h1>
-    <p>Will you be mt date?</p>
+    <p>Will you be my date?</p>
 </body>
 </html>
            
